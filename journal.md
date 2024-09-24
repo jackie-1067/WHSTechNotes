@@ -10,3 +10,6 @@ For You: I did encounter a challenge while following the steps. I did not unders
 
 # September 17, 2024
 This is a free week.
+
+# September 24, 2024
+Ease of Use: I find python easier to understand than the Sphero block coding because the instructions are more straight forward and direct. Problem-Solving: The two approaches helped me solve coding challenges by providing the codes I needed to use, we only had to put them in order based on what we wanted the program to do. Flexibility: I feel that I have more freedom in python than in Sphero because as long as we know and write the commands correctly, we can program anything we want, but in Sphero, we are limited to the blocks they have available and nothing else. Real-World Application: Python programming might be more useful compared to block coding because with python we can create many different things such as games, websites, analysis, etc. since block coding, based on what I have seen, works more for robotics, game development, and story telling.
