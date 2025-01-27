@@ -66,7 +66,7 @@ I think government interventions negatively impacts technology companies and the
 # January 27, 2025
   | Name     | Car | Mistake |
   | :------- | :-- | :------ |
-  | Jimmy    | Honda Civiv    | Drilled Hole In Gas Tank        |
+  | Jimmy    | Honda Civic    | Drilled Hole In Gas Tank        |
   | Kayla    | GMC Sierra    | Fixed Wrong Problem        |
   | Bart     | Toyota Corolla    | Left Stains On Carpet        |
   | Harrison | Subaru Forester   | Left The Oil Cap Off        |
