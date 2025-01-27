@@ -62,3 +62,11 @@ I personally think that this shift is not the best as many people lose their job
 
 # January 22, 2025
 I think government interventions negatively impacts technology companies and their users. The reason why is because it can limit the freedom users have on the platform and can affect the services the company can or wants to provide to make the app or website better. However, I don't think it is wrong to revise and check the policies to make sure the users are using a safe and private system. In my opinion, companies like TikTok should address security concerns to the public by providing the problem and then a plan on how to solve it. They should explain why there is security problems and how they are planning to take responisbility to make the app a better and safer platform for their user. If I were a developer, I would implement a policy that describes the users rights, rules, and owners rights to make sure the users stay informed about what the app will do and how it works. Furthermore, I would have privacy settings as well as have a section where people can ask questions about the app or platform to make sure all their information is safe. This relates to our projects in this computer science class about data privacy and app development since they are both important factos to take in mind when coding to create something. If one isn't careful or mindful of what they are making, it can lead to problems like the TikTok situation where they getting banned for using their users information without permission. We must learn to do things safely and wisely in order to avoid these types of mistakes when coding. These are some lessons one can apply to their projects or some I, myself, can apply onto my projects in order to make a useful, entertaining, safe app without a worrying about there being major security problems.
+
+# January 27, 2025
+  | Name     | Car | Mistake |
+  | :------- | :-- | :------ |
+  | Jimmy    | Honda Civiv    | Drilled Hole In Gas Tank        |
+  | Kayla    | GMC Sierra    | Fixed Wrong Problem        |
+  | Bart     | Toyota Corolla    | Left Stains On Carpet        |
+  | Harrison | Subaru Forester   | Left The Oil Cap Off        |
