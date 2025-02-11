@@ -75,3 +75,12 @@ I think government interventions negatively impacts technology companies and the
 Computer science contributes to aviation safety since it provides the systems that controls traffic as it gives us a radar showing us which planes are on their way and where their locations are at. Without this information more aviation accidents would occur. Cyber vulnerabilities pose a risk to in air management because someone could hack in and mess with the systems. They can change the order in which you see the radar or the data that is being recorded. This can cause many incidents since you would be using the wrong information and do wrong decisions based on this. It is important to have high security against these type of hackers to avoid problems with data and information. Furthermore, software errors and bugs can also produce the same type of problem if the codes arent set up or written correctly. Things can go by without any warning. For example, there can be an obstacle or another plane or flying vehicle in the way and without the proper coding or with a bug, it might not be detected, causing an accident.
 
 Technology can provide for increased aviation safety by allowing us to predict accidents. Implementing advanced technology could also help with avoiding incidents that can cause harm. Additionally, it will be harder to be hacked into which means people wont be able to mess with the data nor output of the code that is being used. Safety is very important so we must know how to improve it in order to avoid conflict and accidents. Implementing technology that has automatic warnings or alerts could be a good idea since it will warn us about possible accidents without letting them slip up by mistake. All in all, computer science would be a great contribution to aviation safety to avoid errors, slip ups, and major accidents.
+
+# February 11, 2025
+| Shape  | Color | Count |
+  | :------- | :-- | :------ |
+  | Circle    | Green   | 7   |
+  | Square    | Yellow   | 5   |
+  | Hexagon     | Brown | 6  |
+  | Triangle | Purple | 4 |
+  | Octagon  | Red  | 3  |
