@@ -84,3 +84,6 @@ Technology can provide for increased aviation safety by allowing us to predict a
   | Hexagon     | Brown | 6  |
   | Triangle | Purple | 4 |
   | Octagon  | Red  | 3  |
+
+# February 18, 2025
+The most interesting thing I have learned this last week was that there are orphanages for children in China whose parents were executed. I was able to learn about this for one of my assignments in World History. I was required to find a video and write a short summary about why I chose it and what it was about. The video talked about how many children in China lose their parents to execution due to the hight crime rates and strict policies that China has. Those children are then taken in by an orphanage where they are taken care of with love and affection until they are eighteen years old. I found this interesting because I never knew that these things happen and I felt bad for the children who lost their parents or claimed to be hated by their parents. Those children deserve better and I am glad that there is an organization that takes care of them the way that they should be taken care of.
