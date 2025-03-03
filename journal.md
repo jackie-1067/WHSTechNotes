@@ -91,3 +91,12 @@ The most interesting thing I have learned this last week was that there are orph
 # February 24, 2025
 Technology could bridge generational language gaps while maintaining professionalism and cultural awareness by providing explanations on what certain slang words mean or by teaching them what the meaning of those words are and how to used them with context. Educators can use this type of techonlogy to figure out what their students are talking about and stay aware of the good and bad words that they can potentially be using. Furthermore, they will not be so confused when there are worksheets or messages with this type of slang. Some potential benefits of implementing slang translation is that people will not be confused with all the new slang words there are and will be able to normally communicate with the people who use the slang without a problem. A potential challenge is that some people may use the slang words out of context or innappropriately use the words which can offend many people and cause damage to the society.
 I believe that schools should track and teach appropriate slang, but to people who do not understand anything about these words so that they aren't helpless when communicating. This way teachers and counselors will understand how the student is feeling and what they are trying to say. All in all, I believe technology could connect generations with language gaps while maintaining professionalism and cultural awareness by teaching people about the slang words that are used and their appropriate usage and context.
+
+# March 03, 2025
+| Name  | Power | Challenge |
+  | :------- | :-- | :------ |
+  | Zara    | Telekenesis   | Secure Building   |
+  | Aether   | Weather Manipulation   | Prevent Assassination  |
+  | Thorne     | Invisibility | Underwater Rescue  |
+  | Silver | Mind Control | Retrieve Stolen Goods |
+  | Tangier  | Shapeshifting  | Extract Prisoner  |
